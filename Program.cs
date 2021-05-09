@@ -56,11 +56,19 @@ namespace PankoojiManagementProj
             Console.Clear();
 
             //Give User Application Options
-            /* TODO: Add Options List for user
-                Create New Password
-                Change Password
-                Password Info
-             */
+            Console.Write(
+                $"WELCOME TO THE PANKOO MANAGEMENT SYSTEM" +
+                $"\n\n" +
+                $"Please Input Command: " +
+                $"*CURSOR GOES HERE*" +
+                $"\n\n==========================================================================================================\n\n" +
+                $"\n\t1) OPTION 1" +
+                $"\n\t2) OPTION 2" +
+                $"\n\t3) OPTION 3" +
+                $"\n\t4) OPTION 4" +
+                $"\n\t5) OPTION 5" +
+                $"\n\n===========================================================================================================\n\n"
+                );
 
             //TODO: Create thread for user input
 
