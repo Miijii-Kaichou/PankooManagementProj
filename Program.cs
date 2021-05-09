@@ -30,7 +30,7 @@ namespace PankoojiManagementProj
             //TODO: Ask for PanID
             //TODO: Ask for Password
             Console.WriteLine("");
-            string userIdentification = UserPrompt.Ask("PanID: ", true);
+            string userIdentification = UserPrompt.Ask("PanID: ");
             string userPassword = UserPrompt.Ask("\nPassword: ", true);
 
             //TODO: Match PanID and Password to database, and check for valid key
@@ -52,9 +52,17 @@ namespace PankoojiManagementProj
     {
         internal static void Begin()
         {
-            //Main Selection Loop begins here
+            //Main Selection Loop begins here. Flush buffer
+            Console.Clear();
 
-            //TODO: Create thread of main system
+            //Give User Application Options
+            /* TODO: Add Options List for user
+                Create New Password
+                Change Password
+                Password Info
+             */
+
+            //TODO: Create thread for user input
 
         }
     }
@@ -88,7 +96,7 @@ namespace PankoojiManagementProj
         internal static bool Validate(PanAccount targetPanAccount)
         {
             //TODO: Search through database for existing account, otherwise, ask to create a new one
-            //For now, fake access.
+            //For now, fake access.s
 
             Successful = true;
             return Successful;
