@@ -1,0 +1,7 @@
+E:\Documents\Repositories\C#\PankoojiManagement\PankoojiManagementProj\bin\Debug\PankoojiManagementProj.exe.config
+E:\Documents\Repositories\C#\PankoojiManagement\PankoojiManagementProj\bin\Debug\PankoojiManagementProj.exe
+E:\Documents\Repositories\C#\PankoojiManagement\PankoojiManagementProj\bin\Debug\PankoojiManagementProj.pdb
+E:\Documents\Repositories\C#\PankoojiManagement\PankoojiManagementProj\obj\Debug\PankoojiManagementProj.csprojAssemblyReference.cache
+E:\Documents\Repositories\C#\PankoojiManagement\PankoojiManagementProj\obj\Debug\PankoojiManagementProj.csproj.CoreCompileInputs.cache
+E:\Documents\Repositories\C#\PankoojiManagement\PankoojiManagementProj\obj\Debug\PankoojiManagementProj.exe
+E:\Documents\Repositories\C#\PankoojiManagement\PankoojiManagementProj\obj\Debug\PankoojiManagementProj.pdb
